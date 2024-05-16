@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34902.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TilConfIdentityDemo", "TilConfIdentityDemo\TilConfIdentityDemo.csproj", "{6489FAFD-B8DB-46E8-97FE-DE5AD18CE464}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6489FAFD-B8DB-46E8-97FE-DE5AD18CE464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6489FAFD-B8DB-46E8-97FE-DE5AD18CE464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6489FAFD-B8DB-46E8-97FE-DE5AD18CE464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6489FAFD-B8DB-46E8-97FE-DE5AD18CE464}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADDF2BA2-BE5E-42B6-B21B-D8A9487FE38B}
+	EndGlobalSection
+EndGlobal
